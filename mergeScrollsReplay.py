@@ -4,6 +4,9 @@ file1 = "4210362_blubberbub.sgr"  # Hardcoded for now
 file2 = "4210362_warrander.sgr"
 
 
+watchAs = "black"
+
+
 def readNextJsonMessage(handle, assertMsg=None):
     """
     Decode the first non-empty line from handle as json.
@@ -69,8 +72,6 @@ with open(file1, "r") as file1handle:
             print("GameId differs: {0} vs {1}".format(m1['gameId'], m2['gameId']))
             exit(1)
 
-        writeMessage(m1)  # TODO Decide which message to keep
-
         whiteHandle = None
         whiteMessage = None
         blackHandle = None
@@ -90,10 +91,17 @@ with open(file1, "r") as file1handle:
             exit(1)
         del m1, m2
 
+        #Getting ProfileIds
+        profileIds = {
+            "white": whiteMessage["whiteAvatar"]['profileId'],
+            "black": whiteMessage["blackAvatar"]['profileId'],
+        }
+        watchAsProfileId = profileIds[watchAs]
         #TODO Check if Player-Names match
 
-        #Skipping any other GameInfo-Messages
+        #Also writing any other GameInfo-Messages from player white
         while whiteMessage['msg'] == "GameInfo":
+            writeMessage(whiteMessage)  # TODO Decide which message to keep
             whiteMessage = readNextJsonMessage(file1handle)
             if whiteMessage is None:
                 print("Replay ended prematurely")
@@ -135,6 +143,11 @@ with open(file1, "r") as file1handle:
 
             #Only Relay Messages for the active player, cause he sees more
             while True:
+                if message['msg'] == "NewEffects":
+                    for effect in message['effects']:
+                        if "HandUpdate" in effect:
+                            if effect['HandUpdate']['profileId'] == profileIds[currentColor]:
+                                effect['HandUpdate']['profileId'] = watchAsProfileId
                 writeMessage(message)
                 message = readNextJsonMessage(stream)
 

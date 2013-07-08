@@ -1,0 +1,894 @@
+{"assetURL": "http://download.scrolls.com/assets/", "msg": "ServerInfo", "version": "0.95.1"}
+
+
+{"roundTimerSeconds": 90, "white": "Blubberbub", "black": "Warrender", "deck": "Growth&Order2", "gameType": "MP_UNRANKED", "whiteAvatar": {"head": 124, "leg": 76, "armFront": 110, "profileId": "b415326658fd4cf3b23616015b355e14", "armBack": 99, "body": 104}, "port": 8081, "rewardForIdolKill": 20, "msg": "GameInfo", "nodeId": "54.236.217.221", "gameId": 4210362, "phase": "Init", "blackAvatar": {"head": 27, "leg": 140, "armFront": 15, "profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "armBack": 4, "body": 13}, "color": "white"}
+
+
+{"roundTimerSeconds": 90, "white": "Blubberbub", "black": "Warrender", "deck": "Growth&Order2", "gameType": "MP_UNRANKED", "whiteAvatar": {"head": 124, "leg": 76, "armFront": 110, "profileId": "b415326658fd4cf3b23616015b355e14", "armBack": 99, "body": 104}, "port": 8081, "rewardForIdolKill": 20, "msg": "GameInfo", "nodeId": "54.236.217.221", "gameId": 4210362, "phase": "Init", "blackAvatar": {"head": 27, "leg": 140, "armFront": 15, "profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "armBack": 4, "body": 13}, "color": "white"}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 1}}]}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 58, "tradable": true, "id": 14220829}, {"level": 0, "typeId": 117, "tradable": true, "id": 7256469}, {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}]}}, {"IdolUpdate": {"idol": {"color": "white", "position": 0, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "white", "position": 1, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "white", "position": 2, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "white", "position": 3, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "white", "position": 4, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "black", "position": 0, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "black", "position": 1, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "black", "position": 2, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "black", "position": 3, "hp": 10}}}, {"IdolUpdate": {"idol": {"color": "black", "position": 4, "hp": 10}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 5}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 58, "tradable": true, "id": 14220829}, {"level": 0, "typeId": 117, "tradable": true, "id": 7256469}, {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}, {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 117, "tradable": true, "id": 7256469}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "GROWTH"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 58, "tradable": true, "id": 14220829}, {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}, {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 58, "tradable": true, "id": 14220829}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 2}}]}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 6}, "whiteAssets": {"outputResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 68, "tradable": true, "id": 6394351}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, {"level": 0, "typeId": 47, "tradable": true, "id": 9055840}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 47, "tradable": true, "id": 9055840}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 68, "tradable": true, "id": 6394351}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 3}}]}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 5}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 58, "tradable": true, "id": 14220829}, {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}, {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 58, "tradable": true, "id": 14220829}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "GROWTH"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}, {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 156, "tradable": false, "id": 7153192}, "tile1": {"color": "white", "position": "2,2"}}}, {"SummonUnit": {"target": {"color": "white", "position": "2,2"}, "unit": {"cardTypeId": 156, "isToken": false}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,2"}, "ap": 1, "ac": 2}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 49, "tradable": true, "id": 10986147}, "tile1": {"color": "white", "position": "2,0"}}}, {"SummonUnit": {"target": {"color": "white", "position": "2,0"}, "unit": {"cardTypeId": 49, "isToken": false}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 0}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackIdol": {"idol": 2, "attacker": {"color": "white", "position": "2,0"}}}, {"DamageIdol": {"idol": {"color": "black", "position": 2, "hp": 9}, "kill": false, "amount": 1}}, {"IdolUpdate": {"idol": {"color": "black", "position": 2, "hp": 9}}}, {"UnitAttackDone": {"source": {"color": "white", "position": "2,0"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 4}}]}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 6}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 68, "tradable": true, "id": 6394351}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, {"level": 0, "typeId": 96, "tradable": true, "id": 4117310}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 68, "tradable": true, "id": 6394351}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, {"level": 0, "typeId": 96, "tradable": true, "id": 4117310}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 96, "tradable": true, "id": 4117310}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 96, "tradable": true, "id": 4117310}, "tile1": {"color": "black", "position": "2,1"}}}, {"SummonUnit": {"target": {"color": "black", "position": "2,1"}, "unit": {"cardTypeId": 96, "isToken": false}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "2,1"}, "ap": 2, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 5}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 1}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,2"}, "ap": 1, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}, {"level": 0, "typeId": 89, "tradable": true, "id": 12467648}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 89, "tradable": true, "id": 12467648}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 89, "tradable": true, "id": 12467648}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 89, "tradable": true, "id": 12467648}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}, {"level": 0, "typeId": 38, "tradable": true, "id": 8886839}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 38, "tradable": true, "id": 8886839}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "GROWTH"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 6}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "2,1"}, "ap": 2, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, {"level": 0, "typeId": 35, "tradable": true, "id": 10747273}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 67, "tradable": true, "id": 11274587}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "2,0"}, {"color": "white", "position": "2,2"}, {"color": "black", "position": "2,1"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, {"level": 0, "typeId": 35, "tradable": true, "id": 10747273}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 35, "tradable": true, "id": 10747273}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}, {"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "RADIUS_7"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 35, "tradable": true, "id": 10747273}, "tile1": {"color": "white", "position": "2,1"}}}, {"TargetTiles": {"targets": [{"color": "white", "position": "2,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "2,2"}], "area": "RADIUS_7", "animationType": "AREA_EXPLOSION"}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": false, "damageType": "MAGICAL", "hp": 1, "amount": 1, "targetTile": {"color": "white", "position": "2,0"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": 0, "amount": 1, "targetTile": {"color": "white", "position": "2,2"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "2,2"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 7}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}, {"level": 0, "typeId": 78, "tradable": true, "id": 7185185}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 78, "tradable": true, "id": 7185185}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 78, "tradable": true, "id": 7185185}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 78, "tradable": true, "id": 7185185}}}, {"EnchantUnit": {"target": {"color": "white", "position": "2,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 3, "buffs": [{"name": "Crimson Bull", "description": "All units you control gain +2 Attack until end of turn.", "type": "ENCHANTMENT"}], "ac": 0}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 75, "tradable": true, "id": 10986154}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "GROWTH"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}]}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "2,0"}, "target": {"color": "black", "position": "2,1"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": true, "damageType": "PHYSICAL", "hp": 0, "amount": 3, "targetTile": {"color": "black", "position": "2,1"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "black", "position": "2,1"}}}, {"UnitAttackDone": {"source": {"color": "white", "position": "2,0"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 8}}]}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, {"level": 0, "typeId": 35, "tradable": true, "id": 6394338}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 35, "tradable": true, "id": 6394338}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}, {"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "RADIUS_7"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 2, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 207, "tradable": true, "id": 14187349}, "tile1": {"color": "black", "position": "0,2"}}}, {"SummonUnit": {"target": {"color": "black", "position": "0,2"}, "unit": {"cardTypeId": 207, "isToken": false}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "0,2"}, "ap": 0, "ac": 3}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 9}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, {"level": 0, "typeId": 22, "tradable": false, "id": 7153205}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 22, "tradable": false, "id": 7153205}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 22, "tradable": false, "id": 7153205}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 11749293}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 22, "tradable": false, "id": 7153205}, "tile1": {"color": "white", "position": "0,2"}}}, {"SummonUnit": {"target": {"color": "white", "position": "0,2"}, "unit": {"cardTypeId": 22, "isToken": false}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,2"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "2,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "2,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "1,0"}, "from": {"color": "white", "position": "2,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 1}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 44, "tradable": true, "id": 11749293}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11749288}, {"level": 0, "typeId": 21, "tradable": false, "id": 7153207}]}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 10}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "0,2"}, "ap": 0, "ac": 2}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, {"level": 0, "typeId": 118, "tradable": true, "id": 6394317}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 118, "tradable": true, "id": 6394317}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 1, "tradable": true, "id": 8862479}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 1, "tradable": true, "id": 7318874}, "tile1": {"color": "black", "position": "2,0"}}}, {"SummonUnit": {"target": {"color": "black", "position": "2,0"}, "unit": {"cardTypeId": 1, "isToken": false}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "2,0"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 11}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 0}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,2"}, "ap": 3, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11749288}, {"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 53, "tradable": true, "id": 11045145}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 53, "tradable": true, "id": 11045145}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 53, "tradable": true, "id": 11045145}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "GROWTH"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11749288}, {"level": 0, "typeId": 21, "tradable": false, "id": 7153207}]}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "1,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "1,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "0,0"}, "from": {"color": "white", "position": "1,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "0,0"}, "ap": 1, "ac": 0}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 121, "tradable": true, "id": 11749288}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "0,0"}, "target": {"color": "black", "position": "0,2"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 4, "amount": 1, "targetTile": {"color": "black", "position": "0,2"}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "0,2"}, "ap": 0, "ac": 2}}, {"UnitAttackDone": {"source": {"color": "white", "position": "0,0"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "0,0"}, "ap": 1, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 12}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "2,0"}, "ap": 3, "ac": 1}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "0,2"}, "ap": 0, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, {"level": 0, "typeId": 142, "tradable": true, "id": 4032117}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 142, "tradable": true, "id": 4032117}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "0,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "0,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 142, "tradable": true, "id": 4032117}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 1, "tradable": true, "id": 8862479}, "tile1": {"color": "black", "position": "2,1"}}}, {"SummonUnit": {"target": {"color": "black", "position": "2,1"}, "unit": {"cardTypeId": 1, "isToken": false}}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 2}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 1}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 142, "tradable": true, "id": 4032117}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "0,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "0,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 142, "tradable": true, "id": 9191584}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187234}]}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 13}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "0,0"}, "ap": 1, "ac": 1}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,2"}, "ap": 3, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11749288}, {"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 64, "tradable": true, "id": 11749296}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 121, "tradable": true, "id": 11749288}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "ORDER"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 64, "tradable": true, "id": 11749296}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 64, "tradable": true, "id": 11749296}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "0,2"}, {"color": "white", "position": "0,0"}, {"color": "white", "position": "0,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 64, "tradable": true, "id": 11749296}, "tile1": {"color": "white", "position": "0,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "0,0"}, "ap": 1, "ac": 0}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "0,0"}, "target": {"color": "black", "position": "0,2"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 3, "amount": 1, "targetTile": {"color": "black", "position": "0,2"}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "0,2"}, "ap": 0, "ac": 1}}, {"UnitAttackDone": {"source": {"color": "white", "position": "0,0"}}}, {"UnitAttackTile": {"source": {"color": "white", "position": "0,2"}, "target": {"color": "black", "position": "0,2"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": true, "damageType": "PHYSICAL", "hp": 0, "amount": 3, "targetTile": {"color": "black", "position": "0,2"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "black", "position": "0,2"}}}, {"UnitAttackDone": {"source": {"color": "white", "position": "0,2"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "0,0"}, "ap": 1, "ac": 2}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,2"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 14}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 1}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 142, "tradable": true, "id": 9191584}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187234}, {"level": 0, "typeId": 47, "tradable": true, "id": 9429878}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 207, "tradable": true, "id": 14187234}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 142, "tradable": true, "id": 9191584}, {"level": 0, "typeId": 47, "tradable": true, "id": 9429878}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 207, "tradable": true, "id": 14187234}, "tile1": {"color": "black", "position": "4,2"}}}, {"SummonUnit": {"target": {"color": "black", "position": "4,2"}, "unit": {"cardTypeId": 207, "isToken": false}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 3}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 142, "tradable": true, "id": 9191584}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "0,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 47, "tradable": true, "id": 9429878}, {"level": 0, "typeId": 47, "tradable": true, "id": 7796395}, {"level": 0, "typeId": 25, "tradable": true, "id": 6170455}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 47, "tradable": true, "id": 7796395}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "0,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 47, "tradable": true, "id": 9429878}, {"level": 0, "typeId": 25, "tradable": true, "id": 6170455}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 47, "tradable": true, "id": 7796395}, "tile1": {"color": "black", "position": "2,0"}}}, {"EnchantUnit": {"target": {"color": "black", "position": "2,0"}}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 0}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackIdol": {"idol": 2, "attacker": {"color": "black", "position": "2,0"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 2, "hp": 6}, "kill": false, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 2, "hp": 6}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,0"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 15}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "0,0"}, "ap": 1, "ac": 1}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,2"}, "ap": 3, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 53, "tradable": true, "id": 11364147}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 53, "tradable": true, "id": 11364147}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 53, "tradable": true, "id": 11364147}, "tile1": {"color": "white", "position": "2,0"}}}, {"SummonUnit": {"target": {"color": "white", "position": "2,0"}, "unit": {"cardTypeId": 53, "isToken": false}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 2}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 21, "tradable": true, "id": 11059190}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 21, "tradable": true, "id": 11059190}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "GROWTH"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}]}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "0,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "0,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "1,0"}, "from": {"color": "white", "position": "0,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 1}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "0,2"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,1"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "1,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "1,2"}, "from": {"color": "white", "position": "0,2"}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "1,2"}, "ap": 3, "ac": 1}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 16}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 0}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 1}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 2}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 5, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 47, "tradable": true, "id": 9429878}, {"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 107, "tradable": true, "id": 6394312}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 47, "tradable": true, "id": 9429878}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "1,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 107, "tradable": true, "id": 6394312}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 107, "tradable": true, "id": 6394312}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 107, "tradable": true, "id": 6394312}, "tile1": {"color": "black", "position": "2,2"}}}, {"SummonUnit": {"target": {"color": "black", "position": "2,2"}, "unit": {"cardTypeId": 107, "isToken": false}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "2,2"}, "ap": 4, "ac": 2}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "4,2"}, "abilityId": "EnergyCountdownAbility1for3", "isPlayable": true, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"UnitActivateAbility": {"unit": {"color": "black", "position": "4,2"}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "black", "position": "2,1"}, "target": {"color": "white", "position": "2,0"}}}, {"DamageUnit": {"attackType": "RANGED", "kill": true, "damageType": "PHYSICAL", "hp": -3, "amount": 4, "targetTile": {"color": "white", "position": "2,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "2,0"}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,1"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 17}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 0}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "1,2"}, "ap": 3, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 71, "tradable": true, "id": 13305167}]}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "1,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "1,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "2,0"}, "from": {"color": "white", "position": "1,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 0}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "1,2"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,2"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "2,2"}, "from": {"color": "white", "position": "1,2"}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "2,2"}, "ap": 3, "ac": 0}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 71, "tradable": true, "id": 13305167}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "4,2"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "2,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 71, "tradable": true, "id": 13305167}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "4,2"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "2,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 71, "tradable": true, "id": 13305167}, "tile1": {"color": "white", "position": "2,0"}}}, {"EnchantUnit": {"target": {"color": "white", "position": "2,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Focus", "description": "Target unit gains +3 Attack until end of turn.", "type": "ENCHANTMENT"}], "ac": 0}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "2,0"}, "target": {"color": "black", "position": "2,0"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 5, "amount": 1, "targetTile": {"color": "black", "position": "2,0"}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 1}}, {"UnitAttackDone": {"source": {"color": "white", "position": "2,0"}}}, {"UnitAttackTile": {"source": {"color": "white", "position": "2,2"}, "target": {"color": "black", "position": "2,0"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 4, "amount": 1, "targetTile": {"color": "black", "position": "2,0"}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 1}}, {"UnitAttackDone": {"source": {"color": "white", "position": "2,2"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "2,0"}, "ap": 1, "ac": 2}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "2,2"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 18}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 1}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 0}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 0}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "2,2"}, "ap": 4, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 96, "tradable": true, "id": 6394330}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 96, "tradable": true, "id": 6394330}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 152, "tradable": true, "id": 6394332}, {"level": 0, "typeId": 27, "tradable": true, "id": 11274556}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 152, "tradable": true, "id": 6394332}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 27, "tradable": true, "id": 11274556}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 152, "tradable": true, "id": 6394332}}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 0}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "2,2"}, "ap": 4, "ac": 0}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "black", "position": "2,0"}, "target": {"color": "white", "position": "2,0"}}}, {"DamageUnit": {"attackType": "RANGED", "kill": true, "damageType": "PHYSICAL", "hp": -3, "amount": 4, "targetTile": {"color": "white", "position": "2,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "2,0"}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,0"}}}, {"UnitAttackTile": {"source": {"color": "black", "position": "2,1"}, "target": {"color": "white", "position": "2,2"}}}, {"DamageUnit": {"attackType": "RANGED", "kill": true, "damageType": "PHYSICAL", "hp": 0, "amount": 4, "targetTile": {"color": "white", "position": "2,2"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "2,2"}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,1"}}}, {"UnitAttackIdol": {"idol": 2, "attacker": {"color": "black", "position": "2,2"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 2, "hp": 2}, "kill": false, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 2, "hp": 2}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,2"}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "4,2"}}}, {"SummonUnit": {"target": {"color": "black", "position": "3,2"}, "unit": {"cardTypeId": 96, "isToken": true}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "3,2"}, "ap": 2, "ac": 2}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 2}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "buffs": [{"name": "Potion of Resistance", "description": "All damage dealt to enchanted unit is reduced to 1 for 3 rounds.", "type": "ENCHANTMENT"}], "ac": 2}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 3}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "2,2"}, "ap": 4, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 19}}]}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, {"level": 0, "typeId": 75, "tradable": true, "id": 11364151}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 21, "tradable": false, "id": 7153207}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 75, "tradable": true, "id": 11364151}, {"level": 0, "typeId": 43, "tradable": true, "id": 7208353}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153193}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 75, "tradable": true, "id": 11364151}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 1, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 43, "tradable": true, "id": 7208353}, {"level": 0, "typeId": 156, "tradable": false, "id": 7153193}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 75, "tradable": true, "id": 11364151}, "tile1": {"color": "white", "position": "3,0"}}}, {"SummonUnit": {"target": {"color": "white", "position": "3,0"}, "unit": {"cardTypeId": 75, "isToken": false}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "3,0"}, "ap": 3, "ac": 2}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "3,0"}, "ap": 3, "ac": 0}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 156, "tradable": false, "id": 7153193}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 43, "tradable": true, "id": 7208353}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 156, "tradable": false, "id": 7153193}, "tile1": {"color": "white", "position": "3,2"}}}, {"SummonUnit": {"target": {"color": "white", "position": "3,2"}, "unit": {"cardTypeId": 156, "isToken": false}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "3,2"}, "ap": 1, "ac": 2}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 3, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 43, "tradable": true, "id": 7208353}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "3,0"}, "target": {"color": "black", "position": "3,2"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": true, "damageType": "PHYSICAL", "hp": 0, "amount": 3, "targetTile": {"color": "black", "position": "3,2"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "black", "position": "3,2"}}}, {"UnitAttackDone": {"source": {"color": "white", "position": "3,0"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "3,0"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 20}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 1}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 1}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "2,2"}, "ap": 4, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 27, "tradable": true, "id": 11274556}, {"level": 0, "typeId": 67, "tradable": true, "id": 6411484}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 67, "tradable": true, "id": 6411484}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "3,0"}, {"color": "white", "position": "3,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 27, "tradable": true, "id": 11274556}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 67, "tradable": true, "id": 6411484}, "tile1": {"color": "white", "position": "3,0"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": false, "damageType": "MAGICAL", "hp": 2, "amount": 2, "targetTile": {"color": "white", "position": "3,0"}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "3,0"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 27, "tradable": true, "id": 11274556}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "3,0"}, {"color": "white", "position": "3,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 27, "tradable": true, "id": 11274556}, "tile1": {"color": "white", "position": "3,0"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": -1, "amount": 3, "targetTile": {"color": "white", "position": "3,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "3,0"}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 149, "tradable": true, "id": 4470385}]}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 21}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "3,2"}, "ap": 1, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 43, "tradable": true, "id": 7208353}, {"level": 0, "typeId": 121, "tradable": true, "id": 11059183}]}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 43, "tradable": true, "id": 7208353}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "white", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, {"level": 0, "typeId": 43, "tradable": true, "id": 14220828}, {"level": 0, "typeId": 41, "tradable": false, "id": 7153190}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 41, "tradable": false, "id": 7153190}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, {"level": 0, "typeId": 43, "tradable": true, "id": 14220828}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 41, "tradable": false, "id": 7153190}, "tile1": {"color": "white", "position": "4,0"}}}, {"SummonUnit": {"target": {"color": "white", "position": "4,0"}, "unit": {"cardTypeId": 41, "isToken": false}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "4,0"}, "ap": 2, "ac": 1}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "3,2"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "2,2"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "4,2"}, "from": {"color": "white", "position": "3,2"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,2"}, "ap": 1, "ac": 1}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 43, "tradable": true, "id": 14220828}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 22}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,1"}, "ap": 4, "ac": 0}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 0}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 1}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "2,2"}, "ap": 4, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 149, "tradable": true, "id": 4470385}, {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}]}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "2,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "1,1"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "3,0"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "3,0"}, "from": {"color": "black", "position": "2,1"}}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "3,0"}, "ap": 4, "ac": 0}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "2,2"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "1,2"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,2"}, {"color": "black", "position": "3,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "3,1"}, "from": {"color": "black", "position": "2,2"}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "3,1"}, "ap": 4, "ac": 0}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 149, "tradable": true, "id": 4470385}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "3,1"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 68, "tradable": true, "id": 6394356}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 68, "tradable": true, "id": 6394356}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 68, "tradable": true, "id": 6394356}, "tile1": {"color": "black", "position": "4,0"}}}, {"SummonUnit": {"target": {"color": "black", "position": "4,0"}, "unit": {"cardTypeId": 68, "isToken": false}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 2}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackIdol": {"idol": 2, "attacker": {"color": "black", "position": "2,0"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 2, "hp": 0}, "kill": true, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 2, "hp": 0}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,0"}}}, {"UnitAttackIdol": {"idol": 3, "attacker": {"color": "black", "position": "3,0"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 3, "hp": 6}, "kill": false, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 3, "hp": 6}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "3,0"}}}, {"UnitAttackIdol": {"idol": 3, "attacker": {"color": "black", "position": "3,1"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 3, "hp": 2}, "kill": false, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 3, "hp": 2}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "3,1"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "3,0"}, "ap": 4, "ac": 2}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "3,1"}, "ap": 4, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 23}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,2"}, "ap": 1, "ac": 0}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "4,0"}, "ap": 2, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 1, "ENERGY": 0, "DECAY": 0}, "handSize": 3}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, {"level": 0, "typeId": 43, "tradable": true, "id": 14220828}, {"level": 0, "typeId": 22, "tradable": true, "id": 14591406}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 43, "tradable": true, "id": 14220828}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "3,1"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white", "resource": "ORDER"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, {"level": 0, "typeId": 22, "tradable": true, "id": 14591406}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 7, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 22, "tradable": true, "id": 14591406}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 121, "tradable": true, "id": 11059183}, "tile1": {"color": "white", "position": "4,1"}}}, {"SummonUnit": {"target": {"color": "white", "position": "4,1"}, "unit": {"cardTypeId": 121, "isToken": false}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,2"}, "ap": 2, "ac": 0}}, {"StatsUpdate": {"hp": 3, "target": {"color": "white", "position": "4,1"}, "ap": 1, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "4,0"}, "ap": 3, "ac": 0}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 22, "tradable": true, "id": 14591406}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": []}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 22, "tradable": true, "id": 14591406}, "tile1": {"color": "white", "position": "0,1"}}}, {"SummonUnit": {"target": {"color": "white", "position": "0,1"}, "unit": {"cardTypeId": 22, "isToken": false}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,1"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "4,0"}, "target": {"color": "black", "position": "4,0"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 2, "amount": 2, "targetTile": {"color": "black", "position": "4,0"}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 2}}, {"UnitAttackDone": {"source": {"color": "white", "position": "4,0"}}}, {"UnitAttackTile": {"source": {"color": "white", "position": "4,2"}, "target": {"color": "black", "position": "4,0"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 1, "amount": 1, "targetTile": {"color": "black", "position": "4,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 2}}, {"UnitAttackDone": {"source": {"color": "white", "position": "4,2"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,2"}, "ap": 2, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "4,0"}, "ap": 3, "ac": 1}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 24}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "3,0"}, "ap": 4, "ac": 1}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 1}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 1}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 0}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "3,1"}, "ap": 4, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 7, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 96, "tradable": true, "id": 6394329}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "4,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "SEQUENTIAL", "targetAreaGroups": [[{"color": "white", "position": "4,0"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "4,2"}], [{"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,2"}], [{"color": "white", "position": "0,1"}]]}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 96, "tradable": true, "id": 6394329}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 25, "tradable": true, "id": 6170455}, "tile1": {"color": "white", "position": "4,2"}}}, {"TargetTiles": {"targets": [{"color": "white", "position": "4,2"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "4,0"}], "area": "SEQUENTIAL", "animationType": "AREA_EXPLOSION"}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": -1, "amount": 2, "targetTile": {"color": "white", "position": "4,2"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "4,2"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": false, "damageType": "MAGICAL", "hp": 1, "amount": 2, "targetTile": {"color": "white", "position": "4,1"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": 0, "amount": 2, "targetTile": {"color": "white", "position": "4,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "4,0"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,1"}, "ap": 1, "ac": 2}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 96, "tradable": true, "id": 6394329}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 3, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 9886348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}]}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackDone": {"source": {"color": "black", "position": "4,2"}}}, {"SummonUnit": {"target": {"color": "black", "position": "4,1"}, "unit": {"cardTypeId": 96, "isToken": true}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "4,1"}, "ap": 2, "ac": 2}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 3}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 25}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,1"}, "ap": 3, "ac": 1}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,1"}, "ap": 1, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": false, "id": 7153176}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 44, "tradable": false, "id": 7153176}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 41, "tradable": true, "id": 7615853}, {"level": 0, "typeId": 44, "tradable": true, "id": 9000899}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 41, "tradable": true, "id": 7615853}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 4, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 44, "tradable": true, "id": 9000899}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 41, "tradable": true, "id": 7615853}, "tile1": {"color": "white", "position": "4,0"}}}, {"SummonUnit": {"target": {"color": "white", "position": "4,0"}, "unit": {"cardTypeId": 41, "isToken": false}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "4,0"}, "ap": 3, "ac": 1}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 44, "tradable": true, "id": 9000899}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 44, "tradable": true, "id": 9000899}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "4,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "3,1"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "4,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "4,2"}, "from": {"color": "white", "position": "4,1"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,2"}, "ap": 1, "ac": 1}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 44, "tradable": true, "id": 9000899}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "2,0"}, {"color": "white", "position": "3,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "2,1"}, {"color": "white", "position": "3,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "0,2"}, {"color": "white", "position": "1,2"}, {"color": "white", "position": "2,2"}, {"color": "white", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": []}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 44, "tradable": true, "id": 9000899}, "tile1": {"color": "white", "position": "4,1"}}}, {"SummonUnit": {"target": {"color": "white", "position": "4,1"}, "unit": {"cardTypeId": 44, "isToken": false}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "white", "position": "4,1"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 26}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "3,0"}, "ap": 4, "ac": 0}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 0}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 0}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "4,1"}, "ap": 2, "ac": 1}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "3,1"}, "ap": 4, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "handSize": 5}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 9886348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}, {"level": 0, "typeId": 66, "tradable": true, "id": 6394358}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 25, "tradable": true, "id": 9886348}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "4,0"}, {"color": "white", "position": "0,1"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "4,2"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "SEQUENTIAL", "targetAreaGroups": [[{"color": "white", "position": "4,0"}, {"color": "white", "position": "4,1"}, {"color": "white", "position": "4,2"}], [{"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "4,2"}], [{"color": "white", "position": "0,1"}]]}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 6, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 0, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}, {"level": 0, "typeId": 66, "tradable": true, "id": 6394358}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 25, "tradable": true, "id": 9886348}, "tile1": {"color": "white", "position": "4,1"}}}, {"TargetTiles": {"targets": [{"color": "white", "position": "4,1"}, {"color": "white", "position": "4,0"}, {"color": "white", "position": "4,2"}], "area": "SEQUENTIAL", "animationType": "AREA_EXPLOSION"}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": false, "damageType": "MAGICAL", "hp": 1, "amount": 2, "targetTile": {"color": "white", "position": "4,1"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": 0, "amount": 2, "targetTile": {"color": "white", "position": "4,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "4,0"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": -1, "amount": 2, "targetTile": {"color": "white", "position": "4,2"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "4,2"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "4,1"}, "ap": 2, "ac": 2}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 66, "tradable": true, "id": 6394358}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "2,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "1,0"}, {"color": "black", "position": "2,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "1,0"}, "from": {"color": "black", "position": "2,0"}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "1,0"}, "ap": 4, "ac": 0}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 66, "tradable": true, "id": 6394358}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "3,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,0"}, {"color": "black", "position": "2,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "2,0"}, "from": {"color": "black", "position": "3,0"}}}, {"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 0}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "4,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "3,0"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "3,0"}, "from": {"color": "black", "position": "4,1"}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "3,0"}, "ap": 2, "ac": 1}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "3,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "2,1"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "4,1"}, "from": {"color": "black", "position": "3,1"}}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "4,1"}, "ap": 4, "ac": 0}}]}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 66, "tradable": true, "id": 6394358}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,1"}, {"color": "white", "position": "4,1"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "SEQUENTIAL", "targetAreaGroups": [[{"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "4,2"}], [{"color": "white", "position": "4,1"}], [{"color": "white", "position": "0,1"}]]}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"alerts": ["Not enough resources"], "msg": "CardInfo", "hasEnoughResources": false, "card": {"level": 0, "typeId": 66, "tradable": true, "id": 6394358}, "isPlayable": false, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "0,0"}, {"color": "black", "position": "0,1"}, {"color": "black", "position": "1,1"}, {"color": "black", "position": "2,1"}, {"color": "black", "position": "3,1"}, {"color": "black", "position": "0,2"}, {"color": "black", "position": "1,2"}, {"color": "black", "position": "2,2"}, {"color": "black", "position": "3,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "black", "resource": "ENERGY"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}]}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackIdol": {"idol": 1, "attacker": {"color": "black", "position": "1,0"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 1, "hp": 6}, "kill": false, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 1, "hp": 6}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "1,0"}}}, {"UnitAttackIdol": {"idol": 2, "attacker": {"color": "black", "position": "2,0"}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "2,0"}}}, {"UnitAttackTile": {"source": {"color": "black", "position": "4,0"}, "target": {"color": "white", "position": "4,1"}}}, {"DamageUnit": {"attackType": "RANGED", "kill": true, "damageType": "PHYSICAL", "hp": -4, "amount": 5, "targetTile": {"color": "white", "position": "4,1"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "4,1"}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "4,0"}}}, {"UnitAttackIdol": {"idol": 4, "attacker": {"color": "black", "position": "4,1"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 4, "hp": 6}, "kill": false, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 4, "hp": 6}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "4,1"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 6, "target": {"color": "black", "position": "2,0"}, "ap": 4, "ac": 2}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 2}}, {"StatsUpdate": {"hp": 4, "target": {"color": "black", "position": "1,0"}, "ap": 4, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "4,1"}, "ap": 4, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["GROWTH", "ORDER"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "white", "turn": 27}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,1"}, "ap": 3, "ac": 0}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 0}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 71, "tradable": true, "id": 14580322}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 71, "tradable": true, "id": 14580322}, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "1,0"}, {"color": "black", "position": "2,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "4,2"}, {"color": "white", "position": "0,1"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"CardSacrificed": {"color": "white"}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153206}, {"level": 0, "typeId": 89, "tradable": false, "id": 7153183}]}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 89, "tradable": false, "id": 7153183}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153206}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 89, "tradable": false, "id": 7153183}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 5, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 2}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 21, "tradable": false, "id": 7153206}, {"level": 0, "typeId": 42, "tradable": true, "id": 9001059}]}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "0,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "0,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "0,1"}, "abilityId": "SummonWolf", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "1,0"}, {"color": "white", "position": "0,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"UnitActivateAbility": {"unit": {"color": "white", "position": "0,1"}}}, {"SummonUnit": {"target": {"color": "white", "position": "1,0"}, "unit": {"cardTypeId": 49, "isToken": true}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "0,1"}, "ap": 3, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 0}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "0,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "0,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "white", "position": "0,1"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "0,0"}, {"color": "white", "position": "1,1"}, {"color": "white", "position": "0,2"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "white", "position": "1,1"}, "from": {"color": "white", "position": "0,1"}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "1,1"}, "ap": 3, "ac": 2}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 21, "tradable": false, "id": 7153206}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 1, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 42, "tradable": true, "id": 9001059}]}}, {"CardPlayed": {"color": "white", "card": {"level": 0, "typeId": 21, "tradable": false, "id": 7153206}}}, {"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "1,1"}, "ap": 3, "ac": 0}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "white", "position": "1,0"}, "target": {"color": "black", "position": "1,0"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": false, "damageType": "PHYSICAL", "hp": 3, "amount": 1, "targetTile": {"color": "black", "position": "1,0"}}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "1,0"}, "ap": 4, "ac": 2}}, {"UnitAttackDone": {"source": {"color": "white", "position": "1,0"}}}, {"UnitAttackTile": {"source": {"color": "white", "position": "1,1"}, "target": {"color": "black", "position": "1,0"}}}, {"DamageUnit": {"attackType": "MELEE", "kill": true, "damageType": "PHYSICAL", "hp": 0, "amount": 3, "targetTile": {"color": "black", "position": "1,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "black", "position": "1,0"}, "modifierAffects": [{"tile": {"color": "black", "position": "2,0"}}]}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "2,0"}, "ap": 3, "ac": 2}}, {"UnitAttackDone": {"source": {"color": "white", "position": "1,1"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 4, "target": {"color": "white", "position": "1,1"}, "ap": 3, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "white", "position": "1,0"}, "ap": 1, "ac": 2}}]}
+
+
+{"msg": "ActiveResources", "types": ["ENERGY"]}
+
+
+{"msg": "NewEffects", "effects": [{"TurnBegin": {"color": "black", "turn": 28}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "2,0"}, "ap": 3, "ac": 1}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 1}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "3,0"}, "ap": 2, "ac": 0}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "4,2"}, "ap": 0, "ac": 1}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "4,1"}, "ap": 4, "ac": 1}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "handSize": 4}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, {"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}, {"level": 0, "typeId": 67, "tradable": true, "id": 14187206}]}}]}
+
+
+{"msg": "AbilityInfo", "hasEnoughResources": true, "unitPosition": {"color": "black", "position": "2,0"}, "abilityId": "Move", "isPlayable": true, "data": {"selectableTiles": {"tileSets": [[{"color": "black", "position": "1,0"}, {"color": "black", "position": "2,1"}]]}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"MoveUnit": {"to": {"color": "black", "position": "1,0"}, "from": {"color": "black", "position": "2,0"}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "1,0"}, "ap": 3, "ac": 1}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}, "data": {"selectableTiles": {"tileSets": []}, "targetArea": "UNDEFINED"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 4, "DECAY": 0}, "handSize": 3}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}, {"level": 0, "typeId": 67, "tradable": true, "id": 14187206}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 152, "tradable": true, "id": 1898443}}}, {"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "1,0"}, "ap": 3, "ac": 0}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 0}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "4,1"}, "ap": 4, "ac": 0}}]}
+
+
+{"msg": "CardInfo", "hasEnoughResources": true, "isPlayable": true, "card": {"level": 0, "typeId": 67, "tradable": true, "id": 14187206}, "data": {"selectableTiles": {"tileSets": [[{"color": "white", "position": "1,0"}, {"color": "white", "position": "1,1"}, {"color": "black", "position": "1,0"}, {"color": "black", "position": "3,0"}, {"color": "black", "position": "4,0"}, {"color": "black", "position": "4,1"}, {"color": "black", "position": "4,2"}]]}, "targetArea": "TILE"}}
+
+
+{"msg": "NewEffects", "effects": [{"ResourcesUpdate": {"blackAssets": {"outputResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 7, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 0, "ENERGY": 2, "DECAY": 0}, "handSize": 2}, "whiteAssets": {"outputResources": {"GROWTH": 6, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "availableResources": {"GROWTH": 0, "ORDER": 2, "ENERGY": 0, "DECAY": 0}, "handSize": 1}}}, {"HandUpdate": {"profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "cards": [{"level": 0, "typeId": 207, "tradable": true, "id": 14187348}, {"level": 0, "typeId": 25, "tradable": true, "id": 14187134}]}}, {"CardPlayed": {"color": "black", "card": {"level": 0, "typeId": 67, "tradable": true, "id": 14187206}, "tile1": {"color": "white", "position": "1,0"}}}, {"DamageUnit": {"attackType": "UNDEFINED", "kill": true, "damageType": "MAGICAL", "hp": 0, "amount": 2, "targetTile": {"color": "white", "position": "1,0"}}}, {"RemoveUnit": {"removalType": "DESTROY", "tile": {"color": "white", "position": "1,0"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"UnitAttackTile": {"source": {"color": "black", "position": "1,0"}, "target": {"color": "white", "position": "1,1"}}}, {"DamageUnit": {"attackType": "RANGED", "kill": false, "damageType": "PHYSICAL", "hp": 1, "amount": 3, "targetTile": {"color": "white", "position": "1,1"}}}, {"StatsUpdate": {"hp": 1, "target": {"color": "white", "position": "1,1"}, "ap": 3, "ac": 2}}, {"UnitAttackDone": {"source": {"color": "black", "position": "1,0"}}}, {"UnitAttackIdol": {"idol": 3, "attacker": {"color": "black", "position": "3,0"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 3, "hp": 0}, "kill": true, "amount": 2}}, {"IdolUpdate": {"idol": {"color": "white", "position": 3, "hp": 0}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "3,0"}}}, {"UnitAttackIdol": {"idol": 4, "attacker": {"color": "black", "position": "4,0"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 4, "hp": 1}, "kill": false, "amount": 5}}, {"IdolUpdate": {"idol": {"color": "white", "position": 4, "hp": 1}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "4,0"}}}, {"UnitAttackIdol": {"idol": 4, "attacker": {"color": "black", "position": "4,1"}}}, {"DamageIdol": {"idol": {"color": "white", "position": 4, "hp": 0}, "kill": true, "amount": 4}}, {"IdolUpdate": {"idol": {"color": "white", "position": 4, "hp": 0}}}, {"UnitAttackDone": {"source": {"color": "black", "position": "4,1"}}}]}
+
+
+{"msg": "NewEffects", "effects": [{"StatsUpdate": {"hp": 5, "target": {"color": "black", "position": "1,0"}, "ap": 3, "ac": 2}}, {"StatsUpdate": {"hp": 1, "target": {"color": "black", "position": "4,0"}, "ap": 5, "ac": 2}}, {"StatsUpdate": {"hp": 3, "target": {"color": "black", "position": "3,0"}, "ap": 2, "ac": 2}}, {"StatsUpdate": {"hp": 2, "target": {"color": "black", "position": "4,1"}, "ap": 4, "ac": 2}}]}
+
+
+{"msg": "NewEffects", "effects": [{"EndGame": {"winner": "black", "whiteStats": {"totalMs": 415472, "unitsPlayed": 11, "spellsPlayed": 6, "unitDamage": 20, "scrollsDrawn": 29, "idolDamage": 1, "mostDamageUnitId": 10986147, "idolsDestroyed": 0, "profileId": "b415326658fd4cf3b23616015b355e14", "mostDamageUnit": 3, "enchantmentsPlayed": 0}, "whiteGoldReward": {"matchCompletionReward": 20, "idolsDestroyedReward": 0, "matchReward": 31, "totalReward": 51}, "blackStats": {"totalMs": 357961, "unitsPlayed": 7, "spellsPlayed": 8, "unitDamage": 28, "scrollsDrawn": 30, "idolDamage": 34, "mostDamageUnitId": 6394356, "idolsDestroyed": 3, "profileId": "d40c8bd8eb29410cabc4c6919fb0714d", "mostDamageUnit": 5, "enchantmentsPlayed": 1}, "blackGoldReward": {"matchCompletionReward": 20, "idolsDestroyedReward": 60, "matchReward": 189, "totalReward": 269}}}]}
+
+
