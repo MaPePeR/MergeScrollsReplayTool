@@ -1,7 +1,19 @@
 import json
-from sys import exit, stdout
-file1 = "4210362_blubberbub.sgr"  # Hardcoded for now
-file2 = "4210362_warrander.sgr"
+from sys import exit, stdout, argv
+
+file1 = None
+file2 = None
+outfilestream = stdout
+if len(argv) == 3:
+    file1 = argv[1]
+    file2 = argv[2]
+elif len(argv) == 4:
+    file1 = argv[1]
+    file2 = argv[2]
+    outfilestream = open(argv[3], "w")
+else:
+    print("Usage: {0} In-File1 InFile2 [OutFile]".format(argv[0]))
+    exit(1)
 
 
 watchAs = "black"
@@ -26,8 +38,8 @@ def readNextJsonMessage(handle, assertMsg=None):
 
 
 def writeMessage(message):
-    stdout.write(json.dumps(message))
-    stdout.write("\n\n\n")
+    outfilestream.write(json.dumps(message))
+    outfilestream.write("\n\n\n")
 
 
 def isTurnBeginOrEndGame(message):
