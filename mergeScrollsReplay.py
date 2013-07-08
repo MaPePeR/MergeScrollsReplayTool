@@ -130,7 +130,7 @@ with open(file1, "r") as file1handle:
                 stream = whiteHandle
             elif currentColor == "black":
                 writeMessage(blackRessourcesMessage)
-                stream = blackMessage
+                stream = blackHandle
             message = whiteMessage  # black and white are equal.
 
             #Only Relay Messages for the active player, cause he sees more
