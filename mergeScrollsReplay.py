@@ -29,7 +29,7 @@ def writeMessage(message):
 
 def isTurnBeginOrEndGame(message):
     if message['msg'] == 'NewEffects':
-        if len(message['effects'] == 1):
+        if len(message['effects']) == 1:
             if "TurnBegin" in message['effects'][0] or "EndGame" in message['effects'][0]:
                 return True
     return False
@@ -37,7 +37,7 @@ def isTurnBeginOrEndGame(message):
 
 def isTurnBegin(message):
     if message['msg'] == 'NewEffects':
-        if len(message['effects'] == 1):
+        if len(message['effects']) == 1:
             if "TurnBegin" in message['effects'][0]:
                 return True
     return False
@@ -45,7 +45,7 @@ def isTurnBegin(message):
 
 def isEndGame(message):
     if message['msg'] == 'NewEffects':
-        if len(message['effects'] == 1):
+        if len(message['effects']) == 1:
             if "EndGame" in message['effects'][0]:
                 return True
     return False
@@ -136,7 +136,7 @@ with open(file1, "r") as file1handle:
             #Only Relay Messages for the active player, cause he sees more
             while True:
                 writeMessage(message)
-                message = readNextJsonMessage(message)
+                message = readNextJsonMessage(stream)
 
                 if message is None:
                     print("Replay does not has a valid end")
