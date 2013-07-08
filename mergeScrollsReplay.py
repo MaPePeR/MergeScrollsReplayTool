@@ -157,9 +157,14 @@ with open(file1, "r") as file1handle:
                     message = readNextJsonMessage(otherStream)
                     while True:  # Successfully nested 3 Infinte loops
                         if message is None:
-                            print("Replay does not has a valid end")
+                            print("Replay does not has a valid end2")
                             exit(1)
                         if isTurnBeginOrEndGame(message):
                             break
                         message = readNextJsonMessage(otherStream)
+                    #Writing beck the OtherPlayer-Message
+                    if currentColor == "white":
+                        blackMessage = message
+                    elif currentColor == "black":
+                        whiteMessage = message
                     break
