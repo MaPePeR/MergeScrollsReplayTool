@@ -22,12 +22,12 @@ def readNextJsonMessage(handle, assertMsg=None):
     return message
 
 
-def writeMessage(msg):
-    stdout.write(json.dumps(msg))
+def writeMessage(message):
+    stdout.write(json.dumps(message))
     stdout.write("\n\n\n")
 
 
-def isTurnBeginOrEndGame(msg):
+def isTurnBeginOrEndGame(message):
     if message['msg'] == 'NewEffects':
         if len(message['effects'] == 1):
             if "TurnBegin" in message['effects'][0] or "EndGame" in message['effects'][0]:
@@ -35,7 +35,7 @@ def isTurnBeginOrEndGame(msg):
     return False
 
 
-def isTurnBegin(msg):
+def isTurnBegin(message):
     if message['msg'] == 'NewEffects':
         if len(message['effects'] == 1):
             if "TurnBegin" in message['effects'][0]:
@@ -43,7 +43,7 @@ def isTurnBegin(msg):
     return False
 
 
-def isEndGame(msg):
+def isEndGame(message):
     if message['msg'] == 'NewEffects':
         if len(message['effects'] == 1):
             if "EndGame" in message['effects'][0]:
