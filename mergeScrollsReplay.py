@@ -114,22 +114,21 @@ with open(file1, "r") as file1handle:
         watchAsProfileId = profileIds[watchAs]
         #TODO Check if Player-Names match
 
-        #Also writing any other GameInfo-Messages from player white
-        while whiteMessage['msg'] == "GameInfo":
-            writeMessage(whiteMessage)  # TODO Decide which message to keep
-            whiteMessage = readNextJsonMessage(file1handle)
-            if whiteMessage is None:
-                print("Replay ended prematurely")
-                exit(5)
-        while blackMessage['msg'] == "GameInfo":
-            blackMessage = readNextJsonMessage(file2handle)
-            if blackMessage is None:
-                print("Replay ended prematurely")
-                exit(1)
+        if watchAs == "white":
+            writeMessage(whiteMessage)
+        elif watchAs == "black":
+            writeMessage(blackMessage)
+        #Also read the second GameInfo Message or the client will crash...
+        whiteMessage = readNextJsonMessage(whiteHandle, "GameInfo")
+        blackMessage = readNextJsonMessage(blackHandle, "GameInfo")
 
-        if whiteMessage['msg'] != "ActiveResources" or blackMessage['msg'] != "ActiveResources":
-            print("Coudn't read ActiveRessources")
-            exit(1)
+        if watchAs == "white":
+            writeMessage(whiteMessage)
+        elif watchAs == "black":
+            writeMessage(blackMessage)
+
+        whiteMessage = readNextJsonMessage(whiteHandle, "ActiveResources")
+        blackMessage = readNextJsonMessage(blackHandle, "ActiveResources")
 
         whiteRessourcesMessage = whiteMessage  # Save the ActiveResouces-Message for later
         blackRessourcesMessage = blackMessage
