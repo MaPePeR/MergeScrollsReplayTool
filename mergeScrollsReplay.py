@@ -23,6 +23,7 @@ def readNextJsonMessage(handle, assertMsg=None):
     """
     Decode the first non-empty line from handle as json.
     If assertMsg is given raise an Error if the msg-attribute did not match or no Message was found.
+    Also skip every Ping messages
     """
     s = "\n"
     while(s == "\n"):
@@ -32,6 +33,8 @@ def readNextJsonMessage(handle, assertMsg=None):
                 raise "EOF instead of {0}".format(assertMsg)
             return None
     message = json.loads(s)
+    if message['msg'] == "Ping":
+        return readNextJsonMessage(handle, assertMsg)
     if assertMsg is not None and message['msg'] != assertMsg:
         raise "{0} instead of {1}".format(message['msg'], assertMsg)
     return message
